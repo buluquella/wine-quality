@@ -4,7 +4,7 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import classification_report, confusion_matrix, accuracy_score
 from sklearn.ensemble import RandomForestClassifier
 
-file_path = 'winequality-white.csv'
+file_path = 'data/winequality-white.csv'
 data = pd.read_csv(file_path, delimiter=';')
 
 ###############
