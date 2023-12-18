@@ -23,9 +23,12 @@ The project uses two datasets:
 
 1. Decision Trees
 2. Random Forests
-
+3. K- Nearest Neighbor
+4. Neural Network
+5. 
 ## Repository Structure
 
 - `data/`: Contains the datasets used in the project.
 - `src/`: Source code for various ML models and utilities.
+-   `src/models/`: Models that I've explored.
 - `README.md`: This file, providing an overview of the project.
